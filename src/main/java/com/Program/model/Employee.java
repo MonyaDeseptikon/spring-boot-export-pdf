@@ -1,4 +1,4 @@
-package com.techgeeknext.model;
+package com.Program.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

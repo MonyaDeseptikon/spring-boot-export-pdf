@@ -1,7 +1,7 @@
-package com.techgeeknext.controller;
+package com.Program.controller;
 
-import com.techgeeknext.repository.EmployeeRepository;
-import com.techgeeknext.util.PDFGeneratorUtility;
+import com.Program.repository.EmployeeRepository;
+import com.Program.util.PDFGeneratorUtility;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
